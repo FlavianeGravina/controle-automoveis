@@ -1,0 +1,17 @@
+# Dependências do Node.js
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Cobertura de testes
+coverage/
+
+# Configurações do editor
+.vscode/
+.idea/
+
+# Outros arquivos gerados
+.env

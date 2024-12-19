@@ -15,6 +15,19 @@ Esta aplicação foi desenvolvida para gerenciar automóveis, motoristas e a uti
 
 ---
 
+## **Tecnologias Utilizadas**
+
+Este projeto foi desenvolvido utilizando as seguintes tecnologias e bibliotecas:
+
+- **Node.js**: Ambiente de execução para JavaScript no servidor.
+- **Express.js**: Framework web para construção das APIs.
+- **Jest**: Framework para criação de testes unitários.
+- **JavaScript (ES6)**: Linguagem principal do projeto.
+- **Git**: Controle de versão.
+- **Visual Studio Code**: IDE utilizada para desenvolvimento.
+
+---
+
 ## **Como Executar**
 
 ### Pré-requisitos
@@ -24,5 +37,5 @@ Esta aplicação foi desenvolvida para gerenciar automóveis, motoristas e a uti
 ### Passos
 1. Clone o repositório:
    ```bash
-   git clone <link-do-repositorio>
+   git clone https://github.com/FlavianeGravina/controle-automoveis.git
    cd controle-automoveis
